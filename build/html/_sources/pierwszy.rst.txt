@@ -1,0 +1,10 @@
+2. Instrukcja obsługi aplikacji klienckiej
+==================================================
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Zawartość sprawozdania:
+
+:Authors:
+    Eryk Mika
