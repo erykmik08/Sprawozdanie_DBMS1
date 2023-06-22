@@ -10,6 +10,7 @@ Sprawozdanie projektowe z kursu Bazy danych 1
 .. toctree::
     first
     second
+    third
     :maxdepth: 2
     :caption: Zawartość sprawozdania:
 
